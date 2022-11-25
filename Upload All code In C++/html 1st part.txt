@@ -1,0 +1,429 @@
+<img src="D:\Web App Developer\Image\Tom.jpg" height="40%" width="25%" /> //alt = (if)no image found 
+ tittle="my image" />
+ <ul>
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>JS</li>
+ </ul>
+ <ol type="1">
+     <li>JAVA</li>
+     <li>PYTHON</li>
+     <li>C++</li>
+ </ol>
+ <a href="http://google.com">Click here</a>
+
+------------------------------------------------------------------------------------
+
+<p><h4>  Hello Apon  </h4></p>
+
+ <h1>Welcome </h1>
+
+ <div id="id1" class="cls1">
+ <span>Write here  what you want to know </span></div><input/>
+
+ <img src="" height="" alt="The image is not display"/></br>
+
+ <img src="D:\Web App Developer\Image\Tom.jpg" height="40%" width="25%" /> //alt = (if)no image found 
+ <title="my image" />
+
+ <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+    // ol used for unorder
+</ul>
+<ol type="A">  //for 123 or used anything just write type=""
+    <li>JAVA</li>
+    <li>PYTHON</li>
+    <li>C++</li>
+    // ol for unorder
+</ol>
+<a href="http://google.com">Click here</a>
+
+
+ -------------------------------------------------------------------------------------
+
+<table border="3">
+<tr>
+
+    <th>Name</th>
+    <th>Age</th>
+    <th>Student Id</th>
+    <th>Department</th>
+
+</tr>
+
+<tr>
+
+    <td>Apon </td>
+    <td> 21</td>
+    <td>20-42905-1</td>
+    <td> CSE</td>
+
+</tr>
+<tr>
+
+    <td>Partho </td>
+    <td> 32 </td>
+    <td>20-42907-1</td>
+    <td> CSE </td>
+
+</tr>
+
+<tr>
+
+    <td>Argho </td>
+    <td> 43</td>
+    <td>20-42908-1</td>
+    <td> CSE</td>
+
+</tr>
+
+<tr>
+
+    <td>Rafi </td>
+    <td> 42 </td>
+    <td>20-42909-1</td>
+    <td> CSE </td>
+
+</tr>
+
+
+
+
+ </table>
+
+-------------------------------------------------------------------------
+
+ <th><img src="D:\Web App Developer\Image\Tom.jpg" height="40%" width="25%" /> 
+      <title="my image" />
+    
+           
+         
+         
+             
+       
+      <th><img src="D:\Web App Developer\Image\Tom 1.jpg" height="50%" width="30%" /> 
+      <title="my image" />
+
+
+</tr>
+<tr>
+   <td><a href="http://google.com">Click here</a></td>
+   <td><img src="D:\Web App Developer\Image\jerry.jpg " height="50%" width="30%" />
+      <title="my image" />
+   <td><a href="http://yahoo.com">Click here</a></td>
+
+
+
+
+</tr>
+
+</table>
+
+-------------------------------------
+  <img src="D:\Web App Developer\Image\Tom.jpg" height="40%" width="25%" /> 
+   <title="my image" />
+
+----------------------------------------------
+
+
+<html>
+<head>
+
+</head>
+<body>
+ 
+
+   <table border="1" cellspacing="0">
+      <tr>
+      
+          <td rowspan="5"><img src="D:\Web App Developer\Image\Tom.jpg" height="40%" width="25%" /> 
+            <title="my image" />
+          </td>
+          <td>1</td>
+          <th rowspan="5"><img src="D:\Web App Developer\Image\Tom 1.jpg" height="50%" width="30%" /> 
+            <title="my image" />
+      </th>
+          
+      
+      </tr>
+      
+      <tr>
+      
+          <td>2 </td>
+         
+         
+         
+      
+      </tr>
+      <tr>
+      
+          <td>3 </td>
+         
+      
+         
+      
+      </tr>
+      
+      <tr>
+      
+          <td>4 </td>
+        
+          
+         
+      
+      </tr>
+      
+      <tr>
+      
+          <td>5 </td>
+          
+         
+         
+      
+      </tr>
+       
+      <tr>
+      
+         <td><a href="http://google.com">Click here</a> </td>
+         <td> <img src="D:\Web App Developer\Image\jerry.jpg " height="50%" width="30%" />
+            <title="my image" /> </td>
+         <td><a href="http://yahoo.com">Click here</a></td>
+      </td>
+        
+     
+     </tr>
+      
+      
+      
+      
+       </table>
+      
+
+ 
+</body> 
+</html>
+
+ 
+
+-------------------------------------
+
+    Technology :
+          </br>
+          <input type="checkbox"name="tech" value="M"/> Mobile
+          <input type="checkbox"name="tech" value="L"/> Laptop
+          <input type="checkbox"name="tech"value="C"/> Computer
+          <input type="checkbox"name="tech"value="T"/> Tab</br></br>
+
+    City lived in :
+          
+          <select name="city">
+                 <option value="D"> Dhaka</option>
+                 <option value="Ch"> Chattagram</option>
+                 <option value="Bh"> Bhola</option>
+                 <option value="Sy"> Sylhet</option>
+                 <option value="Rang"> Rangpur</option>
+                 <option value="Raj"> Rajshahi</option>
+
+
+
+
+          </select>
+        </br></br>
+        
+          <Textarea cols="20" rows="3">
+
+            
+          </Textarea>
+           </br></br>
+           <input type="button" value="Click Me"/>
+           <input type="Submit" value=" Submit form"/>
+           <input type="reset"/>
+
+
+
+
+---------------------------
+
+Gender :  <input type="radio" name="gender" value="M"/> Male
+             <input type="radio" name="gender" value="F"/> Female
+ 
+    
+            </br></br>
+
+
+
+-----------------------------------------------------
+
+<html>
+   
+        <head>
+
+        </head>
+        <body>
+            <form action="http://google.com" >//method (post)</br></br>
+                Name : <input name size="30" maxlength="20" minlength="3" placeholder="Please enter your name here"/></br></br>
+                Age  : <input age size="32" placeholder="Please enter your age here"/></br></br>
+                Gender : <input type="radio"name="gender" />Male
+                         <input type="radio"name="gender" />Female </br></br>
+                
+               Technology :
+                        </br>
+                        <input type="checkbox"name="tech" value="M"/> Mobile
+                        <input type="checkbox"name="tech" value="L"/> Laptop
+                        <input type="checkbox"name="tech"value="C"/> Computer
+                        <input type="checkbox"name="tech"value="T"/> Tab</br></br> 
+               City lived in :
+                        
+              
+            
+                        <select name="city">
+                               <option value="D"> Dhaka</option>
+                               <option value="Ch"> Chattagram</option>
+                               <option value="Bh"> Bhola</option>
+                               <option value="Sy"> Sylhet</option>
+                               <option value="Rang"> Rangpur</option>
+                               <option value="Raj"> Rajshahi</option>
+                           
+              
+              
+              
+                        </select>
+                         </br></br>
+
+
+                        <Textarea cols="20" rows="3" >
+                        </Textarea></br></br>
+         Your Favorite Color :
+
+                        <input type="color"/> </br></br>
+
+        Please Enter Your Email-Id :
+                        <input type="email"/></br></br>
+         Enter Your Password :
+                        <input type="password"/></br></br>
+         Enter Your Phone No :
+                         <input type="number" type="range"/>
+                         </br></br>
+
+         Your Date Of Birth :
+
+                        <input type="date"/></br></br>
+         
+         Your Birth Time :
+                        <input type="time"/></br></br>
+         Enter Your Job Aplied Details :
+                        <input type="datetime-local"/></br></br>
+        Upload Your Resume :
+                        <input type="file" multiple/>
+    
+                         </br></br>
+                         <input type="button" value="Click Me"/>
+                         <input type="Submit" value=" Submit form"/>
+                         <input type="reset"/>
+             </form>
+
+
+
+
+        </body>
+</html>
+
+--------------------------------------------------------
+City lived in :
+                        
+              
+            
+                        <select name="city">
+                               <option value="D"> Dhaka</option>
+                               <option value="Ch"> Chattagram</option>
+                               <option value="Bh"> Bhola</option>
+                               <option value="Sy"> Sylhet</option>
+                               <option value="Rang"> Rangpur</option>
+                               <option value="Raj"> Rajshahi</option>
+                           
+              
+              
+              
+                        </select>
+
+
+
+-----------------------------------------------------------------------------------
+
+<html>
+   
+        <head>
+
+        </head>
+        <body>
+            <form action="http://google.com" >//method (post)</br></br>
+                Name : <input name size="30" maxlength="20" minlength="3" pattern="[A-Z a-z]{3,}" required placeholder="Please enter your name here"/></br></br>
+                Age  : <input age size="32" pattern="[A-Za-z0-9*&]{1,}" placeholder="Please enter your age here"/></br></br>
+                Gender : <input type="radio"name="gender" />Male
+                         <input type="radio"name="gender" />Female </br></br>
+                
+               Technology :
+                        </br>
+                        <input type="checkbox"name="tech" value="M"/> Mobile
+                        <input type="checkbox"name="tech" value="L"/> Laptop
+                        <input type="checkbox"name="tech"value="C"/> Computer
+                        <input type="checkbox"name="tech"value="T"/> Tab</br></br> 
+               City lived in :
+                        
+              
+            
+                       <input list="cities"/>
+                       <datalist id="cities">
+                               <option value="D"> Dhaka</option>
+                               <option value="Ch"> Chattagram</option>
+                               <option value="Bh"> Bhola</option>
+                               <option value="Sy"> Sylhet</option>
+                               <option value="Rang"> Rangpur</option>
+                               <option value="Raj"> Rajshahi</option>
+              
+                       </datalist>
+                         </br></br>
+
+
+                        <Textarea cols="20" rows="3" >
+                        </Textarea></br></br>
+         Your Favorite Color :
+
+                        <input type="color"/> </br></br>
+
+        Please Enter Your Email-Id :
+                        <input type="email"/></br></br>
+         Enter Your Password :
+                        <input type="password"/></br></br>
+         Enter Your Phone No :
+                         <input type="number" type="range"/>
+                         </br></br>
+
+         Your Date Of Birth :
+
+                        <input type="date"/></br></br>
+         
+         Your Birth Time :
+                        <input type="time"/></br></br>
+         Enter Your Job Aplied Details :
+                        <input type="datetime-local"/></br></br>
+        Upload Your Resume :
+                        <input type="file" multiple/>
+    
+                         </br></br>
+                         <input type="button" value="Click Me"/>
+                         <input type="Submit" value=" Submit form"/>
+                         <input type="reset"/>
+             </form>
+
+
+
+
+        </body>
+</html>
+
+
+---------------------------------------------------------------
+ 

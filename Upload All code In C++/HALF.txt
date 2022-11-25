@@ -1,0 +1,58 @@
+                                  abcdefghijklmnopqrstuvwxyz
+                                  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Name         : Apon riaz
+Roll         : 20-42905-1
+Id           : 20-42905-1
+Section      : B-18
+Course  Name : Web Development
+Duration     : Four Month
+Fee          : 5000 tk only 
+             Apon riaz talukder write down about yourself ( About your educational qualifiacation  )
+            
+Educational Qualifiaction : 
+
+PSC        478 Number       Chattagram Board 
+JSC        4.94 G.P.A       Chattagram Board
+SSC        4.44 G.P.A       Chattagram Board
+HSC        2.44 G.P.A       Chattagram Board
+Improvment ( HSC )
+HSC        3.33 G.P.A       Chattagram Board
+BSc In CSE Undergratuated Programming
+1st semester          ENGLISH READING SLILLS & PUBLIC SPEAKING   D+[ 3.00 ]      DIFF CALCULAS AND COORDINATE GEOMETRY    A[ 3.00 ]   PHYSICS 1     C[3.00]     
+                      INTRODUCTION TO COMPUTER STUDIES           B+[ 1.00 ]      INTRODUCTION TO PROGRAMMING              C[ 3.00 ]   PHYSICS1 LAB  A[1.00]
+                      INTRODUCTION TO PROGRAMMING LAB            C+[ 1.00 ]
+
+
+2nd semester          DISCRETE MATHEMETHICS                       C[ 3.00 ]      INTEGRAL CALCULAS & ORD. DIFF EQUATION    B+[ 3.00 ] 
+                      PHYSICS 2                                   A[ 3.00 ]      ENGLISH WRITTING SKILLS & COMMUNICATIONS  C+[ 3.00 ]
+                      OBJECT ORRIENTED PROGRAMMING1 (JAVA)        D+[ 3.00 ]     PHYSICS2 LAB                               C[   ]
+
+
+                                                         
+3rd semester          INTRODUCTION TO ELECTRICAL CERCUITS         [ 3.00 ]
+                      COMPLEX VARIABLE,LAPLACE & Z-TRANSFORMATION [ 3.00 ]    BANGLADESH STUDIES                        [ 3.00 ]
+                      PRINCIPAL OF ACCOUNTING                     [ 3.00 ]
+
+
+       
+4th semester         COMPUTER AIDED DESIGN & DRAFTING             [ 1.00 ]    INTRODUCTION TO DATABASE                   [ 3.00 ]       
+                     DATA STRUCTURE                               [ 3.00 ]    DATA STRUCTURE LAB                         [ 1.00 ]
+                     MATRICS VECTORS,FOURIER ANALYSIS             [ 3.00 ]    COMPUTATIONAL STATSTICS PROBABILITY        [ 3.00 ]
+
+
+
+5th semester        ELECTRONIC DEVICE                             [ 2.00 ]    OBJECT ORIENTED ANALYSIS AND DESIGN        [ 3.00 ]    ALGORITHM    [3.00]
+                    PRINCIPAL OF ECONOMICS                        [ 2.00 ]    BUSINESS COMMUNICATION                     [ 3.00 ]    PHYSICS2 LAB [1.00]
+                    
+
+
+
+6th semester       DIGITAL LOGIC AND CIRCUIT                      [ 3.00 ]    THEORY OF COMPUTATION                      [ 3.00 ]   
+                   NUMERICAL METHODS FOR SCIENCE AND ENGINEERING  [ 3.00 ]    OBJECT ORRIENTED PROGRAMMING 2             [ 3.00 ]
+
+
+
+7th semester
+
+
+	
